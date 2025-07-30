@@ -1,8 +1,8 @@
 function Header() {
     return (
-        <header className="flex items-center bg-stone-900 h-[150px]">
-            <img src="/logo.png" alt="Logo" className="w-[120px] mx-6"/>
-            <h1 className="text-stone-50 text-5xl ">Organizae</h1>
+        <header className="flex items-center justify-center bg-stone-900 h-[120px]">
+            <img src="/logo.png" alt="Logo" className="w-[80px] mx-2"/>
+            <h1 className="text-stone-50 text-4xl ">Organizae</h1>
         </header>
     );
 
